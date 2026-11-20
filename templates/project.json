@@ -1,0 +1,17 @@
+{
+  "name": "Project Name",
+  "slug": "repo-name",
+  "tagline": "One line that says what it is.",
+  "description": "Two or three sentences for a project directory page.",
+  "status": "early",
+  "features": [
+    "Short feature line",
+    "Short feature line"
+  ],
+  "stack": ["Docker"],
+  "repository": "https://github.com/H0m3Lab/repo-name",
+  "documentation": "https://github.com/H0m3Lab/repo-name#readme",
+  "changelog": "https://github.com/H0m3Lab/repo-name/blob/main/CHANGELOG.md",
+  "license": "MIT",
+  "screenshots": []
+}
