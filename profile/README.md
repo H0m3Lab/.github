@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="h0m3lab-logo.jpg" alt="H0m3Lab logo" width="160">
+</p>
+
 ```
 > H0m3Lab
 > WHERE CURIOSITY MEETS COMPUTE._
