@@ -21,6 +21,7 @@ documented, and published so anyone with a Docker host can use it.
 | [**Leanarr**](https://github.com/H0m3Lab/leanarr) | Seed-aware library shrinker. Re-encodes old video to HEVC without touching any file a torrent still needs. Optional remote GPU/CPU workers. | Python (stdlib only), ffmpeg |
 | [**Stackbrief - Powered by AI**](https://github.com/H0m3Lab/stackbrief) | A daily Docker update and CVE scan, sorted by AI into a short brief: what an agent can do, what needs you, and what nobody can fix yet. | Shell, Trivy, regclient, Claude Code |
 | [**Claude gateway**](https://github.com/H0m3Lab/claude-gateway) | Claude Code as one shared service for your self-hosted apps: any app posts a job and gets text back, while Claude keeps one memory of your setup. No shell, no host access. | Node.js, Claude Code |
+| [**Twinarr**](https://github.com/H0m3Lab/twinarr) | Seed the torrents you already have on more trackers. Searches your other indexers daily for exact twins of what you seed and adds them on the same files, checked by qBittorrent before anything seeds. | Python (stdlib only), SQLite |
 
 ## What we care about
 
