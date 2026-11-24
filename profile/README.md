@@ -22,6 +22,8 @@ documented, and published so anyone with a Docker host can use it.
 | [**Stackbrief - Powered by AI**](https://github.com/H0m3Lab/stackbrief) | A daily Docker update and CVE scan, sorted by AI into a short brief: what an agent can do, what needs you, and what nobody can fix yet. | Shell, Trivy, regclient, Claude Code |
 | [**Claude gateway**](https://github.com/H0m3Lab/claude-gateway) | Claude Code as one shared service for your self-hosted apps: any app posts a job and gets text back, while Claude keeps one memory of your setup. No shell, no host access. | Node.js, Claude Code |
 | [**Twinarr**](https://github.com/H0m3Lab/twinarr) | Seed the torrents you already have on more trackers. Searches your other indexers daily for exact twins of what you seed and adds them on the same files, checked by qBittorrent before anything seeds. | Python (stdlib only), SQLite |
+| [**map-drive**](https://github.com/H0m3Lab/map-drive) | "Map network drive" for Linux: connect a Windows or NAS share by its UNC path to a drive letter that reconnects after every restart and shows in the file manager sidebar. Needs only cifs-utils, no Samba. | Bash, systemd, cifs-utils |
+| [**qbit-send**](https://github.com/H0m3Lab/qbit-send) | Send .torrent files from your Linux desktop to a remote qBittorrent: everything saved to Downloads goes by itself, or right-click "Send to qBittorrent" in Dolphin or GNOME Files. | Bash, systemd, curl |
 
 ## What we care about
 
